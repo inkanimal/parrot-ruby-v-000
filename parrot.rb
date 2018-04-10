@@ -6,4 +6,4 @@ def parrot(string = "Squawk!")
    return "Squawk!"
   
 end
-  return "Pretty bird!"
+  
