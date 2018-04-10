@@ -4,6 +4,6 @@
 def parrot(string = "Squawk!")
    puts string
    bird = "Squawk!"
-   
+   "Squawk" == "Prety bird!"
 end
   
