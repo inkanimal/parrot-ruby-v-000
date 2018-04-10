@@ -3,5 +3,6 @@
 #parrot = "Squawk"
 def parrot(string = "Squawk!")
    puts string
+   bird1 = "Squawk!"
    bird = "Pretty bird!"
 end
